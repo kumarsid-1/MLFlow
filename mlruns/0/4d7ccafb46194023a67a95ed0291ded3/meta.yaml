@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/mlflow/mlruns/0/4d7ccafb46194023a67a95ed0291ded3/artifacts
+end_time: 1689499605903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d7ccafb46194023a67a95ed0291ded3
+run_name: burly-robin-958
+run_uuid: 4d7ccafb46194023a67a95ed0291ded3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689499602660
+status: 3
+tags: []
+user_id: IT IS SIDDHARTH

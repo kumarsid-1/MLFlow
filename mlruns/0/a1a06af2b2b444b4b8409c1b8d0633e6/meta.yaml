@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/mlflow/mlruns/0/a1a06af2b2b444b4b8409c1b8d0633e6/artifacts
+end_time: 1689501473972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1a06af2b2b444b4b8409c1b8d0633e6
+run_name: abrasive-gnat-699
+run_uuid: a1a06af2b2b444b4b8409c1b8d0633e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689501470623
+status: 3
+tags: []
+user_id: IT IS SIDDHARTH

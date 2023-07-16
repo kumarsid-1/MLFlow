@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/mlflow/mlruns/0/051ce4856caa423a84a46e03d19ddd6e/artifacts
+end_time: 1689501502515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 051ce4856caa423a84a46e03d19ddd6e
+run_name: intelligent-colt-762
+run_uuid: 051ce4856caa423a84a46e03d19ddd6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689501499862
+status: 3
+tags: []
+user_id: IT IS SIDDHARTH

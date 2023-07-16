@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/mlflow/mlruns/0/d6741d5c40f344219742d61c2a8ea121/artifacts
+end_time: 1689501488246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6741d5c40f344219742d61c2a8ea121
+run_name: wise-sponge-730
+run_uuid: d6741d5c40f344219742d61c2a8ea121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689501487597
+status: 4
+tags: []
+user_id: IT IS SIDDHARTH

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/mlflow/mlruns/0/e3565bfcb2fb4f7aa26cecd5f7ac3f3c/artifacts
+end_time: 1689501543806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3565bfcb2fb4f7aa26cecd5f7ac3f3c
+run_name: charming-moth-933
+run_uuid: e3565bfcb2fb4f7aa26cecd5f7ac3f3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689501540996
+status: 3
+tags: []
+user_id: IT IS SIDDHARTH

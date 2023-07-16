@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/mlflow/mlruns/0/dc6cd0e520944283a8bdd206ab976497/artifacts
+end_time: 1689501559512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc6cd0e520944283a8bdd206ab976497
+run_name: brawny-foal-748
+run_uuid: dc6cd0e520944283a8bdd206ab976497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689501556340
+status: 3
+tags: []
+user_id: IT IS SIDDHARTH

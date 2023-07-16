@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/mlflow/mlruns/0/3ea96797266c4d7fa5b395cf1c20c614/artifacts
+end_time: 1689501533335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ea96797266c4d7fa5b395cf1c20c614
+run_name: popular-mule-639
+run_uuid: 3ea96797266c4d7fa5b395cf1c20c614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689501530321
+status: 3
+tags: []
+user_id: IT IS SIDDHARTH
